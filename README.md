@@ -48,8 +48,8 @@
 ## Output:
 ![image](https://github.com/Mario-Viofer-J/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979232/121fb58f-3bdf-4f1b-b6e8-d397565bb329)
 
-### Name: MARIO VIOFER J
-### Register Number: 212223100032
+### Name: HARISH S
+### Register Number: 212223230072
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
